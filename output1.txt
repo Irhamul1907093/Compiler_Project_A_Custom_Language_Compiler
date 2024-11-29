@@ -1,0 +1,41 @@
+ERROR!!!b is not  declared before
+Variable of type integer with name b (one or more) declared
+ERROR!!!b is already declared
+Initialization of b with value = 9
+ERROR!!!b is already declared
+Initialization of a with value = 4
+Variable of type integer with name a (one or more) declared
+ERROR!!!c is not  declared before
+Variable of type Float with name c (one or more) declared
+ERROR!!!d is not  declared before
+ERROR!!!e is not  declared before
+Variable of type integer with name e (one or more) declared
+array type
+array Initialization
+Variable of type integer with name ara (one or more) declared
+ERROR!!!d is not  declared before
+2.000000 + 2.000000 = 4.000000
+ERROR!!!d is not  declared before
+6.000000 - 2.000000 = 4.000000
+1.000000 + 4.000000 = 5.000000
+elseif found
+If block
+For loop found 0
+For loop found 1
+For loop found 2
+For loop found 0
+For loop found 1
+For loop found 2
+For loop found 3
+For loop found 4
+ERROR!!!h is not  declared before
+ERROR!!!g is not  declared before
+while loop found
+function call found
+7.000000 + 5.000000 = 12.000000
+function return
+function defined
+Compiled success
+headerrr
+multi line comment
+single line comment

@@ -1,0 +1,56 @@
+#this is a comment
+#* this a multi line comment *#
+Lib.Include{stdio}.h
+intezar b;
+flot b;
+intezar b=9;
+intezar a=4;
+
+flot c;
+intezar d,e;
+intezar ara[ ]={1,2,4};
+
+if(a==b)
+(
+    d=2+2;
+    d=6-2;
+    c=2.0;
+)
+elsif (a==1)
+(
+    a=1+4;
+)
+
+if(true)
+(
+    a=2;
+)
+else
+(
+    a=b;
+)
+foo(a=1;until::5;a++)
+(
+    foo(b=1;until::3;b++)
+    (
+    a=b ;
+   )
+    a=b ;
+)
+
+wheel(true)
+(
+    a=b;
+    h=g;
+)
+
+fufu(a,b);
+
+UDFUNC intezar fufu(intezar a)
+(
+    a=7+5;
+    ret a;
+)
+factorial (4);
+isPrime(5);
+SIN[3.2];
